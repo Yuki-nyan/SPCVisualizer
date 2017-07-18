@@ -9,5 +9,5 @@ http://byuu.org/emulation/higan/
 
 To compile you need :
 - Visual Studio 2015
-- Windows 10 SDK
-- DirectX ToolKit Desktop package from NuGet
+- Windows SDK (The one that comes with VS2015 Professional is fine)
+- directxtk_desktop_2015 2017.6.21.1 package from NuGet
